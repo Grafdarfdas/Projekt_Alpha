@@ -8,6 +8,8 @@ TagManager:
   - DeathZone
   - Audiomanager
   - CastleEntrance
+  - Enemy
+  - CTrigger
   layers:
   - Default
   - TransparentFX
@@ -45,8 +47,14 @@ TagManager:
   - name: Background
     uniqueID: 1355203197
     locked: 0
+  - name: New Layer Assets
+    uniqueID: 2856956841
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Player 3
+    uniqueID: 3314159701
     locked: 0
   m_RenderingLayers:
   - Default
